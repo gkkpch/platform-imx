@@ -1,7 +1,7 @@
-# platform-hem-var-som-mx8m-mini
+# platform-imx
+This repo contains all platform-specific files, used by the Volumio Builder to create a **imx8** images.
 
-
-tbs
+Kernel Sources:
 
 ##kernel 4.19.y##
 git: https://github.com/varigit/linux-imx.git  
@@ -46,7 +46,7 @@ Connect: SPDIF --> header J18, pin 2, GND --> header J16, pin 19
 + added buildscript for enabling u-boot UMS mode
 + added ready-to-use image for u-boot UMS mode
 
-
+2023-01.19 Revived
 
             
 
